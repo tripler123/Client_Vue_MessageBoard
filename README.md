@@ -45,3 +45,7 @@ sit amet, consectetuer adipiscing elit.
 
     > This is a blockquote
     > inside a list item. 
+
+
+<p>This is <a href="http://example.com/" title="Title">
+an example</a> inline link.</p>
