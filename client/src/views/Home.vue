@@ -58,7 +58,7 @@
 </template>
 
 <script>
-const API_URL = 'http://localhost:3000/messages';
+const API_URL = 'https://server-onbiczydkf.now.sh/messages';
 export default {
   name: 'home',
   data: () => ({
