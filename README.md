@@ -49,3 +49,7 @@ sit amet, consectetuer adipiscing elit.
 
 <p>This is <a href="http://example.com/" title="Title">
 an example</a> inline link.</p>
+
+[foo]: http://example.com/  "Optional Title Here"
+[foo]: http://example.com/  'Optional Title Here'
+[foo]: http://example.com/  (Optional Title Here)
